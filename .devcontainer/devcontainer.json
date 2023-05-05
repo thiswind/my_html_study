@@ -1,0 +1,5 @@
+{
+  "image": "mcr.microsoft.com/vscode/devcontainers/jekyll:7.3-bullseye",
+  "features": {
+  }
+}
